@@ -4,7 +4,7 @@
 
 ## 📊 Interactive Project
 
-**[View the Interactive Risk Register](YOUR-GOOGLE-SHEETS-LINK)**
+**[View the Interactive Risk Register](https://docs.google.com/spreadsheets/d/1l88BMmvfTJCUBsqniVdRx3IxWxCyMs6vyWW8_Uh4Vlc/edit?usp=sharing)**
 
 *View-only Google Sheets portfolio demonstration.*
 
