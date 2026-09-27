@@ -84,7 +84,7 @@ The executive dashboard provides a visual summary of:
 
 ### Executive Dashboard
 
-![Executive Dashboard](Daigrams/dashboard.png)
+![Executive Dashboard](Diagrams/dashboard.png)
 
 ### Risk Register
 
