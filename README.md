@@ -84,15 +84,15 @@ The executive dashboard provides a visual summary of:
 
 ### Executive Dashboard
 
-![Executive Dashboard](screenshots/dashboard.png)
+![Executive Dashboard](Daigrams/dashboard.png)
 
 ### Risk Register
 
-![Risk Register](screenshots/risk-register.png)
+![Risk Register](Diagrams/risk-register.png)
 
 ### Historical Risk Data
 
-![Historical Data](screenshots/historical-data.png)
+![Historical Data](Diagrams/historical-data.png)
 
 ## Skills Demonstrated
 
