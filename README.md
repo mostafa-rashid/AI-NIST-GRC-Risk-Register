@@ -109,6 +109,4 @@ The executive dashboard provides a visual summary of:
 
 ## Disclaimer
 
-This project uses simulated risks, assets, historical data, and organizational roles for educational and portfolio purposes.
-
-It does not represent an actual organization's security environment or risk determination.
+This project uses simulated risks, assets, historical data, and organizational roles for educational and portfolio purposes. It does not represent an actual organization's security environment or risk determination.
